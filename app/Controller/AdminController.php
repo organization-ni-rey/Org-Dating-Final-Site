@@ -1,5 +1,5 @@
 <?php
-
+//test
 	class AdminController extends AppController{
 		
 		public $uses = array(
