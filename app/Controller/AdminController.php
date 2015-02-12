@@ -1,5 +1,9 @@
 <?php
 //test
+
+/*
+  ankol Rey
+*/
 	class AdminController extends AppController{
 		
 		public $uses = array(
