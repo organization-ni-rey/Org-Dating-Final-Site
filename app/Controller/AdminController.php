@@ -12,7 +12,7 @@
 		);
 		
 		public function index(){
-			//kjjhjhjh	
+			//edited	
 		}
 		
 		public function organizer(){
